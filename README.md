@@ -1,0 +1,2 @@
+# Hackintosh
+Acer-ASPIRE-i5-10210U_HACKINTOSH
